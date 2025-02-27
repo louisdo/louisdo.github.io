@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/files/lamdo_ava.jpg"
   name             : "Lam Thanh Do"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student in Computer Science at UIUC"
   location         : "Urbana, Illinois, USA"
   employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
