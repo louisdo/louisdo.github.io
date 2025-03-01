@@ -13,5 +13,7 @@ redirect_from:
 
 # News
 **[Feb 2025]** 1 paper submitted to ACL 2025.
+
 **[August 2024]** Joined Prof. [Kevin Chang](https://siebelschool.illinois.edu/about/people/faculty/kcchang)'s group as a Ph.D. student.
+
 **[May 2023]** My first ever paper got accepted to ACL 2023.
