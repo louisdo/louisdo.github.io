@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 # About me
-👋 Hi, I’m Lam Thanh Do, a first-year Ph.D. student and Graduate Research Assistant in Computer Science at UIUC, advised by Professor [Kevin Chang](https://siebelschool.illinois.edu/about/people/faculty/kcchang). My research focuses on Natural Language Processing (NLP), with particular interests in Text Retrieval and Text Mining.
+👋 Hi, I’m Lam Thanh Do, a first-year Ph.D. student and Graduate Research Assistant in Computer Science at UIUC, advised by Professor [Kevin Chang](https://siebelschool.illinois.edu/about/people/faculty/kcchang) and Professor [Wen-mei Hwu](https://scholar.google.com/citations?user=ohjQPx8AAAAJ&hl=en). My research focuses on Natural Language Processing (NLP), with particular interests in Text Retrieval and Text Mining.
 
 
 # News
-**[Feb 2025]** 1 paper submitted to ACL 2025.
+**[May 2025]** 1 paper accepted to ACL 2025.
 
 **[August 2024]** Joined Prof. [Kevin Chang](https://siebelschool.illinois.edu/about/people/faculty/kcchang)'s group as a Ph.D. student.
 
