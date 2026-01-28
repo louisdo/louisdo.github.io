@@ -57,9 +57,12 @@ author_profile: true
 <div class="photo-gallery">
     {% for file in image_files %}
     {% if file.path contains album %}
+    {% assign ext = file.extname | downcase %}
+    {% if ext == '.jpg' or ext == '.jpeg' or ext == '.png' or ext == '.gif' or ext == '.webp' %}
     <div class="photo-item">
         <img src="{{ file.path }}" alt="{{ album }} photo" loading="lazy">
     </div>
+    {% endif %}
     {% endif %}
     {% endfor %}
 </div>
