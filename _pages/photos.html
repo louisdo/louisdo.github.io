@@ -69,6 +69,14 @@ author_profile: true
 {% endfor %}
 
 {% if albums.size == 0 %}
-<p style="text-align:center">No photos found in <code>images/photos/</code>. Please create subfolders (albums) there and
-    add your images.</p>
+<div style="text-align:center; padding: 20px; background: #f8f9fa; border-radius: 8px;">
+    <h3>No albums found</h3>
+    <p>We couldn't find any photos in <code>images/photos/</code>.</p>
+    <p><strong>Debug Info:</strong></p>
+    <ul style="text-align:left; display:inline-block;">
+        <li>Total static files checked: {{ site.static_files.size }}</li>
+        <li>Files matching '/images/photos/': {{ image_files.size }}</li>
+    </ul>
+    <p><em>If you just added the folder, try restarting your Jekyll server.</em></p>
+</div>
 {% endif %}
